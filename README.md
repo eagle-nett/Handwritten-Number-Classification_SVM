@@ -1,4 +1,5 @@
-# 📝 Phân loại số viết tay📝 MachineLearning
+# Machine Learning
+# 📝 Phân loại số viết tay📝 
 SVM là một thuật toán giám sát, nó có thể sử dụng cho cả việc phân loại hoặc đệ quy. Tuy nhiên nó được sử dụng chủ yếu cho việc phân loại. Trong thuật toán này, chúng ta vẽ đồi thị dữ liệu là các điểm trong n chiều ( ở đây n là số lượng các tính năng bạn có) với giá trị của mỗi tính năng sẽ là một phần liên kết. Sau đó chúng ta thực hiện tìm "đường bay" (hyper-plane) phân chia các lớp. Hyper-plane nó chỉ hiểu đơn giản là 1 đường thẳng có thể phân chia các lớp ra thành hai phần riêng biệt.
 
 ![image](https://github.com/user-attachments/assets/f7a63747-a4fb-4097-b226-d04dd15f4b10)
